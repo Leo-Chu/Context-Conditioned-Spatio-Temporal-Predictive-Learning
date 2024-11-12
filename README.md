@@ -1,9 +1,9 @@
 # Context-Conditioned-Spatio-Temporal-Predictive-Learning
 
 
-I uploaded the network modules in the proposed method. It can be easily integrated into the well-known predictive tasks in the literature, such as predrnn, convlstm. For example, use the module in the wellknow PredRNNN (https://github.com/thuml/predrnn-pytorch)
+I uploaded the network module of the proposed method. It can be easily integrated into the well-known predictive tasks in the literature, such as predrnn, convlstm. For example, use the module in the well-known PredRNNN (https://github.com/thuml/predrnn-pytorch)
 
-Pls leave me a message if you have any concerns.
+Pls leave me a message if you have any concerns. Pls contact me at lc_285@usc.edu 
 
 If you find this code is useful for you, pls cite my work:
 
